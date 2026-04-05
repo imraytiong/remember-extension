@@ -1,0 +1,11 @@
+{
+  "name": "remember",
+  "version": "1.0.0",
+  "description": "Automates session logging to the project workspace and Git.",
+  "author": "Gemini CLI",
+  "repository": "https://github.com/your-username/remember-extension",
+  "capabilities": {
+    "commands": false,
+    "skills": true
+  }
+}
